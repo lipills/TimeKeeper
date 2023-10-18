@@ -14,7 +14,7 @@
 
 ![](https://github.com/lipills/TimeKeeper/blob/main/images/timekeeper.png)
 ![](https://github.com/lipills/TimeKeeper/blob/main/images/%E4%BB%BB%E5%8A%A1%E8%AE%BE%E7%BD%AE.png)
-![](https://github.com/lipills/TimeKeeper/blob/main/images/%E6%94%AF%E6%8C%81ai%E5%8A%A9%E7%90%86.png)
 ![](https://github.com/lipills/TimeKeeper/blob/main/images/%E6%96%B0%E5%BB%BA%E5%88%86%E7%B1%BB.png)
 ![](https://github.com/lipills/TimeKeeper/blob/main/images/%E6%96%B0%E5%BB%BA%E6%A0%87%E7%AD%BE.png)
 ![](https://github.com/lipills/TimeKeeper/blob/main/images/%E6%B7%BB%E5%8A%A0%E6%97%B6%E9%97%B4%E6%AE%B5.png)
+![](https://github.com/lipills/TimeKeeper/blob/main/images/%E6%94%AF%E6%8C%81ai%E5%8A%A9%E7%90%86.png)
