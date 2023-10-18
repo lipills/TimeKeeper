@@ -4,13 +4,13 @@
 
 个人开发了一个“ToDoList、番茄工作法、时间记录”插件，欢迎使用
 支持功能如下：
-1、支持自定义分类
-2、支持根据分类，添加TODO事项
-3、支持为TODO事项添加标签，并支持点击标签过滤事项
-4、支持为每个事项记录工作时间，添加完成时间段
-5、支持根据优先级排序事项
-6、支持番茄工作法界面
-7、支持AI助理
+- 支持自定义分类
+- 支持根据分类，添加TODO事项
+- 支持为TODO事项添加标签，并支持点击标签过滤事项
+- 支持为每个事项记录工作时间，添加完成时间段
+- 支持根据优先级排序事项
+- 支持番茄工作法界面
+- 支持AI助理
 
 ![](https://github.com/lipills/TimeKeeper/blob/main/images/timekeeper.png)
 ![](https://github.com/lipills/TimeKeeper/blob/main/images/%E4%BB%BB%E5%8A%A1%E8%AE%BE%E7%BD%AE.png)
